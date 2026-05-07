@@ -1,3 +1,4 @@
+{ "student" :
 [{"student_id":1,"first_name":"Odelle","last_name":"Fuke","age":21,"gender":"female"},
 {"student_id":2,"first_name":"Engracia","last_name":"Drewry","age":18,"gender":"non-binary"},
 {"student_id":3,"first_name":"Lawry","last_name":"Dibner","age":24,"gender":"female"},
@@ -97,4 +98,4 @@
 {"student_id":97,"first_name":"Glyn","last_name":"Beese","age":25,"gender":"female"},
 {"student_id":98,"first_name":"Karel","last_name":"Petrelluzzi","age":20,"gender":"non-binary"},
 {"student_id":99,"first_name":"Gabrielle","last_name":"Gebhardt","age":23,"gender":"female"},
-{"student_id":100,"first_name":"Ennis","last_name":"Ateridge","age":18,"gender":"non-binary"}]
+{"student_id":100,"first_name":"Ennis","last_name":"Ateridge","age":18,"gender":"non-binary"}]}
